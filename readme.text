@@ -1,0 +1,5 @@
+Steps to runs this program:
+1] Run server.js using command node "server.js"
+2] Now the server will start listening on port no 3000.
+3] Open browser at enter the following url "http://localhost:3000".
+4] Different locations will be marked on the map in different colors and sizes as per the requirements of the assignment.
